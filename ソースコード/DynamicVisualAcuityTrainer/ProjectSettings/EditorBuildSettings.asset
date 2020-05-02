@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 81ae21c9ce5c7f64abf647cfd32ed4ea
+  - enabled: 1
+    path: Assets/Scenes/Result.unity
+    guid: 8288f267941810143b2d1c4d795831aa
+  - enabled: 1
+    path: Assets/Scenes/Mode/NumberTouch/DifficultyNT.unity
+    guid: 91cae6dfc47adcc49b8a98fef917d94f
+  - enabled: 1
+    path: Assets/Scenes/Mode/NumberTouch/NT5x5.unity
+    guid: 30d3d3f214b0e6042bc4cdb5e47af2a8
+  - enabled: 1
+    path: Assets/Scenes/Mode/NumberTouch/NT7x7.unity
+    guid: 47f1d899e87d7a84f9dfdd6520e1536e
+  - enabled: 1
+    path: Assets/Scenes/Mode/NumberTouch/NT10x10.unity
+    guid: 1dce09222281c334194158e4959145a5
+  - enabled: 1
+    path: Assets/Scenes/Mode/MovePoint/DifficultyMP.unity
+    guid: e84b3443b2bd31d4782968d306d14c06
+  - enabled: 1
+    path: Assets/Scenes/Mode/MovePoint/MPx1.unity
+    guid: 126f66f3559c2a04a8afa064ac7ee1e9
+  - enabled: 1
+    path: Assets/Scenes/Mode/MovePoint/MPx2.unity
+    guid: 5193cfae90207864c92154c7c7afe9dc
+  - enabled: 1
+    path: Assets/Scenes/Mode/MovePoint/MPx4.unity
+    guid: 0a5826592c5b71044ad4e60059256194
+  - enabled: 1
+    path: Assets/Scenes/Mode/MovePoint/MPx8.unity
+    guid: b4540cc2b9f002841acc694f7fb2dc37
+  - enabled: 1
+    path: Assets/Scenes/Mode/FlashTouch/DifficultyFT.unity
+    guid: bb758941bbca2284f806399dcc234e1b
+  - enabled: 1
+    path: Assets/Scenes/Mode/FlashTouch/FTEZ.unity
+    guid: e3ec0117c6766a342a666f1290f6f420
+  - enabled: 1
+    path: Assets/Scenes/Mode/FlashTouch/FTN.unity
+    guid: 45590ef9f4ac3f34b913d3ddb274c5f2
+  - enabled: 1
+    path: Assets/Scenes/Mode/FlashTouch/FTH.unity
+    guid: f93336695b6f72c43b3e9fb6b648bf7f
+  - enabled: 1
+    path: Assets/Scenes/Mode/FlashTouch/FTEX.unity
+    guid: 35e58e9d0aad8564191c868c96d687d2
+  m_configObjects: {}
